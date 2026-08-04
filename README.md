@@ -16,8 +16,7 @@
 
 ### `>_` about
 
-I build tools that automate the boring parts of security research :) 
-Trying to become a better researcher! 
+I like to build things!
 
 <br>
 
