@@ -35,14 +35,6 @@ Trying to become a better researcher!
 
 <br>
 
-### `>_` activity feed
-
-<!--START_SECTION:activity-->
-<!-- this block auto-fills once you add the workflow described in SETUP.md -->
-<!--END_SECTION:activity-->
-
-<br>
-
 ### `>_` stats
 
 <div align="center">
