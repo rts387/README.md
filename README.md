@@ -16,6 +16,7 @@
 
 ### `>_` about
 
+Security+ certified, M.S. in Cyber Investigations & Intelligence. 
 I like to build things!
 
 <br>
