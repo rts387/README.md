@@ -29,7 +29,6 @@ Trying to become a better researcher!
 ![Bash](https://img.shields.io/badge/-Bash-000000?style=for-the-badge&logo=gnubash&logoColor=39FF14)
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=linux&logoColor=39FF14)
 ![Ollama](https://img.shields.io/badge/-Ollama-000000?style=for-the-badge&logo=ollama&logoColor=39FF14)
-![Docker](https://img.shields.io/badge/-Docker-000000?style=for-the-badge&logo=docker&logoColor=39FF14)
 
 </div>
 
@@ -41,12 +40,6 @@ Trying to become a better researcher!
 
 <img src="https://github-readme-stats.vercel.app/api?username=rts387&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=39FF14&icon_color=39FF14&text_color=c9c9c9&ring_color=39FF14" alt="GitHub Stats" height="165"/>
 <img src="https://github-readme-streak-stats.herokuapp.com?user=rts387&hide_border=true&background=0d0d0d&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideLabels=c9c9c9&currStreakNum=c9c9c9&sideNums=c9c9c9&dates=6b6b6b" alt="Streak Stats" height="165"/>
-
-</div>
-
-<br>
-
-
 
 </div>
 
